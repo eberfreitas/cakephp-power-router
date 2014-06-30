@@ -1,0 +1,27 @@
+{
+  "name": "eberfreitas/cakephp-power-router",
+  "version": "0.0.1",
+  "description": "No description",
+  "type": "cakephp-plugin",
+  "keywords": [
+    "cakephp"
+  ],
+  "homepage": "http://github.com/eberfreitas/cakephp-power-router",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Éber Freitas Dias",
+      "role": "Maintainer"
+    }
+  ],
+  "require": {
+    "composer/installers": "*"
+  },
+  "support": {
+    "issues": "https://github.com/eberfreitas/cakephp-power-router/issues",
+    "source": "https://github.com/eberfreitas/cakephp-power-router"
+  },
+  "extra": {
+    "installer-name": "PowerRouter"
+  }
+}
