@@ -1,10 +1,10 @@
 {
   "name": "eberfreitas/cakephp-power-router",
   "version": "0.0.1",
-  "description": "No description",
+  "description": "Juicy new features for your cake's routing stuff",
   "type": "cakephp-plugin",
   "keywords": [
-    "cakephp"
+    "cakephp", "routing", "route", "router", "plugin"
   ],
   "homepage": "http://github.com/eberfreitas/cakephp-power-router",
   "license": "MIT",
