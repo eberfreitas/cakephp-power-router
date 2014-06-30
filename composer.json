@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Juicy new features for your cake's routing stuff",
   "type": "cakephp-plugin",
+  "minimum-stability": "dev",
   "keywords": [
     "cakephp", "routing", "route", "router", "plugin"
   ],
