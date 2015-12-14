@@ -1,6 +1,6 @@
 {
   "name": "eberfreitas/cakephp-power-router",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "Juicy new features for your cake's routing stuff",
   "type": "cakephp-plugin",
   "minimum-stability": "dev",
